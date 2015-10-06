@@ -1,2 +1,1 @@
-# bluesyeti.github.io
-My first respository on GitHub...
+Striving to learn to code!
