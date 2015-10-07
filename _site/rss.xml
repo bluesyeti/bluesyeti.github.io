@@ -5,9 +5,9 @@
   xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
   xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
   <channel>
-    <title>Your New Jekyll Site</title>
+    <title>my own luck</title>
     <link>blog url</link>
-    <description>Blogging about stuffs</description>
+    <description>learning to code and writing about it</description>
     <pubDate>Tue, 06 Oct 2015 13:20:00 -0700</pubDate>
     <item>
       <title>Blah blah blah...first post</title>
