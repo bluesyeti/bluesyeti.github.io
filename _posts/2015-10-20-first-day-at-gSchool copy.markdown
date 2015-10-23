@@ -2,7 +2,7 @@
 layout: post
 title:  "First day at gSchool"
 date:   2015-10-19 09:00:00
-categories: bootcamp, gschool, galvanize
+categories: bootcamp gschool galvanize
 ---
 Day 1 Week 1 of Galvanize's Full Stack Developer program or gSchool. Located in the heart of downtown San Francisco, Galvanize is one of the many developer bootcamps that have popped up in the past few years.
 
