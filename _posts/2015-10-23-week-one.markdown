@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Week 1"
-date:   2015-10-19 09:00:00
-categories: bootcamp gschool galvanize
+date:   2015-10-23 09:00:00
+categories: bootcamp gschool galvanize takeaway
 ---
 Week 1 done! Feels good. 
 
@@ -17,7 +17,7 @@ Demographics of October 2015 Full Stack:
 -instructors: 5 (two former gSchool students)
 -countries represented: Iraq, Thailand, United States
 
-Take aways:
+Takeaways:
 Command line is your friend
 Git and GitHub aren't that scary
 Bootstrap makes a frontend dev's life much easier
