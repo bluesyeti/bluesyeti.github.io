@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "Week 1"
+date:   2015-10-19 09:00:00
+categories: bootcamp gschool galvanize
+---
+Week 1 done! Feels good. 
+
+Week 1: The week started with breakfast and introductions. We were introduced to the overall curriculum, the layout of the building and the amenities that Galvanize offers (head shot photos for LinkedIn profiles, massages, haircuts, study space, meetups and events, hiring tools, happy hour, ping pong, pool table, cafe, etc). After lunch we dove in to setting up our dev environment until we went up to the rooftop for a happy hour. The rest of the week we were immersed in the Command Line, Git, Html, Css, and Bootstrap.
+
+The teaching: I have never felt more taken care of in a learning environment. The standard lecture is lead by one of the five instructors while generally 2-4 of the remaining instructors help answer questions and make sure everyone is easily following along. This framework allows for students to ask questions (via Slack or in person) without stopping or slowing down the lecture. The model is very efficient and leaves little to no reason for anyone to be left behind or confused while following the lecture.
+
+Demographics of October 2015 Full Stack:
+-25 students
+-7 women | 18 men
+-age range: ~18 - ~40s
+-instructors: 5 (two former gSchool students)
+-countries represented: Iraq, Thailand, United States
+
+Take aways:
+Command line is your friend
+Git and GitHub aren't that scary
+Bootstrap makes a frontend dev's life much easier
+CSS can get funky
+
