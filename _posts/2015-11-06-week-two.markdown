@@ -1,0 +1,47 @@
+---
+layout: post
+title:  "Week 2/Week3"
+date:   2015-11-06 17:00:00
+categories: bootcamp gschool galvanize takeaway
+---
+I'm little behind on my weekly updates so I'm combining two weeks into a single post. 
+
+##Week 2 & 3:
+Week 2 & 3 were all about diving into that land of Javascript. Javascript is the only language that you can use on all levels of the stack. This is one of the primary reasons we are focussing on it. 
+
+We completed a number of exercises and covered all the basics:
+
+* Variables
+* Primitive Types
+* Reference Types
+* Values
+* Control Flow
+* Truthy vs falsy
+* Arrays
+* Objects
+	* Prototypes
+	* Methods
+* Functions
+* This
+* Loops
+
+Week 3 went over more abstract concepts such as Object Oriented Javascript, Inheritance, and the DOM (Document Object Model). 
+
+For practice, we rebuilt the [lodash](https://lodash.com/) library using vanilla javascript. 
+
+We were also introduced to manipulating the DOM using jquery, which makes life much easier for any frontend dev.
+
+##Takeaways
+
+####Students
+If all the students started within a relatively small spectrum of experience, week 2 and 3 have caused the spectrum to grow exponentially. The students that had been coding for more that 6 months prior to joining Galvanize are now at the top 10% of the class. The students that came in know next to nothing about coding are now beginning to struggle with pace and concepts being presented. In the middle, you have the largest number of students that are struggling but not completely overwhelmed. 
+
+Overall, it is a difficult problem to solve. Instructors don't want to hold the top students back, but also don't want to overwhelm the students that are struggling to the point of dropping out.
+
+
+####Instructors
+The instructors themselves are doing a relatively good job herding all of us along at a decent pace. My only complaint is that the instructors themselves seem to be slightly disorganized. I have also learned that our three head instructors (we have 5 total: 1 lead, 2 co-leads, 2 former gSchool students) are new to the program and were only hired about two weeks before the program started. While they have experience teaching (at Hack Reactor and Hackerbright Academy), they still are settling in and building up the curriculum. 
+
+
+####Curriculm
+Unlike Hack Reactor (which I applied to, and strongly considered attending), Galvanize is constantly developing and redeveloping their curriculm. Hack Reactor has had a lot more time to refine their program. From the instructors and students that I have talked to, they are pretty set in their curriculm. That is not to say that they don't make changes, but they are working within a 3 month window while Galvanize has 6 months.
