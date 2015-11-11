@@ -4,7 +4,8 @@ title:  "How the internet works"
 date:   2015-11-10 19:00:00
 categories: networks internet learning
 ---
-#Networking
+
+##Networking
 
 
 Understanding the 'series of tubes' that make up the internet is an important aspect of becoming a web developer. 
