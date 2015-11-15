@@ -1,0 +1,48 @@
+---
+layout: post
+title:  "Workflow Methodologies"
+date:   2015-13-10 19:00:00
+categories: workflows agile waterfall scrum learning
+---
+A workflow methodology is a way to organize the work a team needs to get done: focussing on prioritization, efficiency, and delivering results. 
+
+###What is a good workflow methodology?
+
+A good workflow methodology is a balance between management and process. Too much management and you can easily kill innovation. Too much process and you can waste time, money and resources. Methodologies wax and wane in popularity, although it is important to understand that **the project itself which should dictate what type of methodology is used**.
+
+##Waterfall
+Waterfall is based on sequential stages of development. After one stage is finished another stage is started. The number of stages depends on the particular project. 
+
+The waterfall approach is susceptible to changes in scope (feature creep) that can greatly affect delivery and resources. If tasks are not properly completed, the results can impact the following sequential stages.
+
+##Agile
+Agile methodologies are iterative approaches that allow multiple stages or sprints to be worked on parallel to each other. There are many different frameworks that but each follows a similar set of standards. 
+
+1. Build software that is malleable
+2. Focus on being able to change the goal
+3. Integrate continuously 
+
+In this day and age technology changes at an incredibly fast rate. Companies are being forced to **ship code early and often**. Instead of a waterfall approaches -- plan, plan, plan, build everything out, ship -- agile methodologies allow requirements to change as needed and teams to continuously improve the product. 
+
+###What does Agile look like?
+More **short**(10 minutes) meetings.
+
+* Morning standups
+
+What did you do yesterday? What are you working on today? Have a problem? Bring it up in the 10 minute daily. This is not a time to discuss anything in depth. It is a time to let the manager know where you are at.
+
+* Sprint planning
+
+Usually a longer meeting. Prior to the standup, managers spend time managing the expectations of the stakeholders, defining priorities of business, and breaking it down into what needs to get done. From there project manager define user stories and the tasks that make up a story. Tasks are turned into tickets and distributed to the team. As a manager is more and more familiar with the team, they will have a better sense of who can take care of what. Always **UNDER PROMISE AND OVER DELIVER!**
+
+3. Retrospective meeting
+
+Last meeting of the sprint. What worked? What didn't work? What are we going to do about it? Leave your ego at the door. Don't be accusatory. A lot of companies might skip this step. If you're part of a company that does this, bring it up with your manager. This weekly meeting is very useful.
+
+
+##SCRUM
+
+Coming soon...
+
+
+
