@@ -1,13 +1,12 @@
 name: "Galvanize Full Stack Program"
 description: "One student's journey learning to code at Galvanize's full stack program"
-meta_description: "Documenting my experience learning to code at Galvanize's full stack program"
-
+meta_description: "One student's journey learning to code at Galvanize's full stack program"
 markdown: redcarpet
 highlighter: pygments
 logo: false
 paginate: 15
 baseurl: /
-domain_name: 'http://jonharlem.github.io/'
+domain_name: 'http://galvanizefullstack.com'
 google_analytics: 'UA-69353602-1'
 
 # Details for the RSS feed generator
